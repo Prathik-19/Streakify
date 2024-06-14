@@ -9,12 +9,6 @@ Streakify is an innovative habit tracker app designed to help you build and main
 - **Reminders and Notifications**: Receive daily reminders and motivational notifications to stay committed to your habits.
 - **Progress Reports**: Access insightful analytics to view your progress over time, helping you understand and optimize your habit patterns.
 
-## Getting Started
-To start using Streakify:
-1. Download and install Streakify from the App Store or Google Play.
-2. Create an account to personalize your experience and sync your data across devices.
-3. Begin by setting a few small habits to track—Streakify is designed to be flexible to your lifestyle.
-
 ## Usage
 - **Create a Habit**: Tap on the 'Add Habit' button to define a new habit. You can specify the frequency and set reminders.
 - **Track Your Streaks**: Each day you complete a habit, your streak increases. Try not to break the chain!
